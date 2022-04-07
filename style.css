@@ -24,3 +24,7 @@ td,th{
 thead>tr:first-child{
     letter-spacing: 2px;
 }
+
+body{
+    background-color: #f5c2c7;
+}
